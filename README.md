@@ -1,7 +1,7 @@
 # NgStarter
 
 * This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
-* This project was created as a starter project to be forked.
+* This project was created as a starter project to be cloned.
 
 Features:
 * Routing
